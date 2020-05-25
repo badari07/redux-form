@@ -1,0 +1,9 @@
+{
+  "name": "redux-form",
+  "version": "1",
+  "description": "form",
+  "main": "dist",
+  "repository": "git@github.com:badari07/redux-form.git",
+  "author": "badari narayan k <badari0793@gmail.com>",
+  "license": "MIT"
+}
